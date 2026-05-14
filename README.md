@@ -8,7 +8,3 @@
 # Introduction
 This repository contains the official implementation of **DAFT-GAN**. <br> 
 DAFT-GAN is a novel framework for text-guided image inpainting. Compared to diffusion models, it demonstrates superior efficiency and speed while producing outputs with better fidelity.
-
-# Environment setup
-
-# Inference
